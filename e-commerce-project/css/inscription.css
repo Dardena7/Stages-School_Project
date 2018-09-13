@@ -1,0 +1,41 @@
+body {
+    min-width: 900px;
+}
+
+.main-container form p {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+form {
+}
+
+form input {
+    font-size: 21px;
+    margin-bottom: 5px;
+    border: 1px solid #2F332E;
+    border-radius: 5px;
+    padding: 2px 3px;
+}
+
+form p label {
+    width: 250px;
+    display: inline-block;
+    color: #B1221C;
+    text-align: left;
+    vertical-align: middle;
+    text-decoration: underline;
+}
+
+
+select.error, textarea.error, input.error {
+    
+    color:#FF0000;
+}
+
+select.valid, textarea.valid, input.valid {
+    
+    color:#00CC00;
+}
+
+

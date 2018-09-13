@@ -1,0 +1,95 @@
+.main-container{
+    overflow: hidden;
+}
+
+.categories{
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+form{
+    display: block;
+    padding: 20px 40px;
+    background-color: #DCDCDC;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+form input {
+    font-size: 21px;
+    margin-bottom: 5px;
+    border: 1px solid #2F332E;
+    border-radius: 5px;
+    padding: 2px 3px;
+    width: 100px;
+    display: block;
+}
+
+.send {
+    padding: 2px 3px;;
+    background-color: dimgrey;
+    box-shadow: 0px 0px 1px 1px black;
+    color: white;
+}
+
+.send:hover {
+    cursor: pointer;
+    background-color: #2F332E;
+}
+
+.categories p {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    background: white;
+}
+
+.delete {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    background-color: red;
+    text-decoration-color: none;
+    color: white;
+    border: 1px solid black;
+    
+}
+
+.restore {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    background-color: green;
+    text-decoration-color: none;
+    color: white;
+    border: 1px solid black;
+}
+
+.restore:hover {
+    background-color: darkgreen;
+}
+
+.delete:hover {
+    background-color: darkred;
+}
+
+.addCategory {
+    width: 300px;
+    margin-bottom: 20px;
+    background-color: gold;
+}
+
+.addCategory input {
+    width: 200px;
+    display: inline-block;
+    
+}
+
+.addCategory .send {
+    width: 200px;
+}

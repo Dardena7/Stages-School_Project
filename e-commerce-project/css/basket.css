@@ -1,0 +1,42 @@
+td a {
+    color: #333333;
+}
+
+
+td {
+    padding: 0px;
+}
+
+button {
+    font-size: 20px;
+    padding: 4px 6px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.drop_good{
+    color: darkred;
+}
+
+.drop_good:hover{
+    color: red;
+}
+
+input {
+    width: 60px;
+    font-size: 20px;
+    padding: 2px;
+    text-align: center;
+}
+
+.buy:hover {
+    color: green;
+}
+
+.sort_button{
+    padding: 0px;
+    font-size: 18px;
+}
+

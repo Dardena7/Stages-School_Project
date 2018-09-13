@@ -1,0 +1,66 @@
+<?php
+
+require_once 'Controller.php';
+require_once 'Configuration.php';
+require_once 'Tools.php';
+
+class Router{
+    private function sanitize_all_array($array){
+        $copy = [];   
+        foreach($array as $key=>$value){
+            $copy[$key] = Tools::sanitize($value);
+        }
+        return $copy;
+    }
+    
+    private function sanitize_all_input(){
+        $_GET = $this->sanitize_all_array($_GET);
+        $_POST = $this->sanitize_all_array($_POST);
+        $_REQUEST = $this->sanitize_all_array($_REQUEST);
+    }
+    
+    //sur base de la requête, renvoie une instance du controleur demandé.
+    private function get_controller(){
+        $controller_name = Configuration::get("default_controller");
+        if(isset($_GET['controller']) && $_GET['controller']!=""){
+            $controller_name = $_GET['controller'];
+        }
+        $controller_class_name = "Controller".ucfirst(strtolower($controller_name));
+        
+        $filename = "controller/$controller_class_name.php";
+        if(file_exists($filename)){
+            require_once "controller/$controller_class_name.php";
+            if(class_exists($controller_class_name)){
+                return new $controller_class_name();
+            } 
+        } else {
+            throw new Exception("Controller '$controller_name' does'nt exist");
+        }
+    }
+    
+    //sur base de la requête, appelle l'action (méthode) sur le controleur donné.
+    private function call_action($controller){
+            $action_name = "index";
+            if(isset($_GET['action']) && $_GET['action']!=""){
+                $action_name = strtolower($_GET['action']);
+            }
+
+            if(method_exists($controller, $action_name)){
+                $controller->$action_name();
+            } else {
+                throw new Exception("Action '$action_name' does'nt exist in this controller.");
+            }
+    }
+        
+    //analyse la requête et appelle la bonne méthode sur le bon controleur.
+    public function route(){
+        try{
+
+            $this->sanitize_all_input();
+            $controller = $this->get_controller();
+            $this->call_action($controller);
+        } catch (Exception $ex) {
+            Tools::abort($ex->getMessage());
+        }
+    }
+}

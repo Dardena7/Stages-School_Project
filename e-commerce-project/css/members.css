@@ -1,0 +1,60 @@
+.main-container {
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.table-container {
+    display: inline-block;
+    background-color: #DCDCDC;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+
+th {
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.admin {
+    padding: 0px;
+    background-color: #34393E;
+    color: white;
+    text-decoration: underline;
+}
+
+.pseudo {
+    text-decoration: underline;
+    color: blue;
+    padding: 0px;
+}
+
+td a {
+    display: block;
+    color: white;
+    padding-top: 11px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+td a:hover{
+    background-color: darkgrey;
+}
+
+
+

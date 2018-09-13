@@ -1,0 +1,12 @@
+.main-container p {
+    text-align: center;
+}
+
+.main-container img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 20px;
+}

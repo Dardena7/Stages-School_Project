@@ -1,0 +1,59 @@
+body {
+    min-width: 900px;
+}
+
+.main-container{
+    text-align: center;
+}
+
+.main-container form p {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+form {
+    
+}
+
+form input {
+    font-size: 21px;
+    margin-bottom: 5px;
+    border: 1px solid #2F332E;
+    border-radius: 5px;
+    padding: 2px 3px;
+    width: 300px;
+}
+
+select {
+    font-size: 21px;
+    padding: 2px 3px;
+    width: 300px;
+    border: 1px solid #2F332E;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+form p label {
+    width: 250px;
+    display: inline-block;
+    color: #B1221C;
+    text-align: left;
+    vertical-align: top;
+    text-decoration: underline;
+}
+
+textarea {
+    border: 1px solid #2F332E;
+    border-radius: 5px;
+    width: 300px;
+}
+
+select.error, textarea.error, input.error {
+    
+    color:#FF0000;
+}
+
+select.valid, textarea.valid, input.valid {
+    
+    color:#00CC00;
+}
