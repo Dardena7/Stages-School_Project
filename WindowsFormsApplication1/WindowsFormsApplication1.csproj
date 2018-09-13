@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{819AE99A-9A11-4986-9B3D-CD7C5C2339B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>WindowsFormsApplication1.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsulterStages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsulterStages.Designer.cs">
+      <DependentUpon>ConsulterStages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasicForm.Designer.cs">
+      <DependentUpon>BasicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ErrorDialog.Designer.cs">
+      <DependentUpon>ErrorDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterMoniteurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsulterMoniteurs.Designer.cs">
+      <DependentUpon>ConsulterMoniteurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterParticipants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsulterParticipants.Designer.cs">
+      <DependentUpon>ConsulterParticipants.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutMembre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutMembre.Designer.cs">
+      <DependentUpon>AjoutMembre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutMoniteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutMoniteur.Designer.cs">
+      <DependentUpon>AjoutMoniteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutStage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutStage.Designer.cs">
+      <DependentUpon>AjoutStage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutFamille.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutFamille.Designer.cs">
+      <DependentUpon>AjoutFamille.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutCentre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AjoutCentre.Designer.cs">
+      <DependentUpon>AjoutCentre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterCentres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsulterCentres.Designer.cs">
+      <DependentUpon>ConsulterCentres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsulterFamilles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsulterFamilles.Designer.cs">
+      <DependentUpon>ConsulterFamilles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierCentre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierCentre.Designer.cs">
+      <DependentUpon>ModifierCentre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierFamille.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierFamille.Designer.cs">
+      <DependentUpon>ModifierFamille.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InscriptionMoniteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InscriptionMoniteur.Designer.cs">
+      <DependentUpon>InscriptionMoniteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stages2016DataSet.cs">
+      <DependentUpon>Stages2016DataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SuccessDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuccessDialog.Designer.cs">
+      <DependentUpon>SuccessDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InscriptionParticipant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InscriptionParticipant.Designer.cs">
+      <DependentUpon>InscriptionParticipant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierStage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierStage.Designer.cs">
+      <DependentUpon>ModifierStage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierParticipant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierParticipant.Designer.cs">
+      <DependentUpon>ModifierParticipant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifierMoniteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifierMoniteur.Designer.cs">
+      <DependentUpon>ModifierMoniteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParticipantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParticipantForm.Designer.cs">
+      <DependentUpon>ParticipantForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MoniteurForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MoniteurForm.Designer.cs">
+      <DependentUpon>MoniteurForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StageForm.Designer.cs">
+      <DependentUpon>StageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stages2016DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stages2016DataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AjoutCentre.resx">
+      <DependentUpon>AjoutCentre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutMembre.resx">
+      <DependentUpon>AjoutMembre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutMoniteur.resx">
+      <DependentUpon>AjoutMoniteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterCentres.resx">
+      <DependentUpon>ConsulterCentres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterFamilles.resx">
+      <DependentUpon>ConsulterFamilles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterMoniteurs.resx">
+      <DependentUpon>ConsulterMoniteurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterParticipants.resx">
+      <DependentUpon>ConsulterParticipants.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsulterStages.resx">
+      <DependentUpon>ConsulterStages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasicForm.resx">
+      <DependentUpon>BasicForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ErrorDialog.resx">
+      <DependentUpon>ErrorDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutStage.resx">
+      <DependentUpon>AjoutStage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AjoutFamille.resx">
+      <DependentUpon>AjoutFamille.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierCentre.resx">
+      <DependentUpon>ModifierCentre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierFamille.resx">
+      <DependentUpon>ModifierFamille.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InscriptionMoniteur.resx">
+      <DependentUpon>InscriptionMoniteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InscriptionParticipant.resx">
+      <DependentUpon>InscriptionParticipant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierMoniteur.resx">
+      <DependentUpon>ModifierMoniteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierParticipant.resx">
+      <DependentUpon>ModifierParticipant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifierStage.resx">
+      <DependentUpon>ModifierStage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuccessDialog.resx">
+      <DependentUpon>SuccessDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoniteurForm.resx">
+      <DependentUpon>MoniteurForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParticipantForm.resx">
+      <DependentUpon>ParticipantForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StageForm.resx">
+      <DependentUpon>StageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Stages2016DataSet.xsc">
+      <DependentUpon>Stages2016DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Stages2016DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stages2016DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Stages2016DataSet.xss">
+      <DependentUpon>Stages2016DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monopoly_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajoutStagaire.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajoutMoniteur.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajoutMoniteur1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listeMoniteurs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajoutStage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajoutMoniteur2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pouce-like.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-inscription1-e1417694334335.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photoComplexe1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\themelanding_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

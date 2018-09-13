@@ -1,0 +1,151 @@
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Alex\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterStages.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterStages.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HomeForm.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BasicForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterStages.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BasicForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HomeForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterStages.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BasicForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HomeForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterStages.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BasicForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HomeForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterStages.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BasicForm.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HomeForm.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ErrorDialog.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ErrorDialog.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StageForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterStages.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BasicForm.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ErrorDialog.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StageForm.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HomeForm.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterMoniteurs.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterParticipants.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoniteurForm.resources
+C:\Users\2904aldardenne.DOMEPFC\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParticipantForm.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutMembre.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterMoniteurs.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterParticipants.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoniteurForm.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParticipantForm.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StageForm.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SuccessDialog.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutMoniteur.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutStage.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutMembre.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutMoniteur.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterMoniteurs.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterParticipants.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutStage.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SuccessDialog.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoniteurForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParticipantForm.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutCentre.resources
+C:\Users\2904aldardenne\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutFamille.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutCentre.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutFamille.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InscriptionParticipant.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InscriptionMoniteur.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierStage.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierMoniteur.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierParticipant.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterFamilles.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierFamille.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterCentres.resources
+C:\Users\alex\Desktop\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierCentre.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutCentre.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutMembre.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutMoniteur.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterCentres.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterFamilles.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterMoniteurs.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterParticipants.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ConsulterStages.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BasicForm.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ErrorDialog.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutStage.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AjoutFamille.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierCentre.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierFamille.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InscriptionMoniteur.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.InscriptionParticipant.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierMoniteur.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierParticipant.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModifierStage.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SuccessDialog.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoniteurForm.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParticipantForm.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StageForm.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HomeForm.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\PRBD\WindowsFormsApplication1 - Copie - Copie\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
