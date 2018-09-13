@@ -1,3 +1,0 @@
-RewriteEngine on
-RewriteBase /prwb_groupe25/
-RewriteRule ^([\w]*)/?([\w]*)?/?([\w]*)?/?$ index.php?controller=$1&action=$2&id=$3 [NC,L]
